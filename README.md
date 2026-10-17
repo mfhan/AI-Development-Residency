@@ -13,8 +13,9 @@ The full program syllabus lives in Notion:
 
 | Path | What goes here |
 | --- | --- |
-| `assignments/` | Class assignments, one folder per assignment |
-| `challenges/` | Submitted coding challenges |
+| `Week 1/` | Week 1 assignment: Claude Skills |
+
+Each week's work goes in its own `Week N/` folder, as required by the class.
 
 ## 🔁 How I work
 
